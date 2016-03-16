@@ -37,7 +37,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="惡魔隊"
+                android:text="天"
                 android:textColor="#616161"
                 android:textSize="14sp" />
 
@@ -98,7 +98,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="天使隊"
+                android:text="使"
                 android:textColor="#616161"
                 android:textSize="14sp" />
 
